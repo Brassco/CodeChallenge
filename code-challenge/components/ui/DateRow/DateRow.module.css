@@ -1,0 +1,34 @@
+.rowCell {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.labelSmall {
+  color: #fff;
+  margin: 1rem;
+}
+
+.datePicker div input {
+  color: #fff !important;
+}
+
+.datePicker div fieldset {
+  border-color: #fff;
+}
+
+.seelctStyle fieldset {
+  border-color: #fff;
+}
+
+.seelctStyle div {
+  color: #fff;
+}
+
+.seelctStyle svg {
+  fill: #fff;
+}
+
+.MuiInputAdornment-root div svg {
+  fill: #fff;
+}

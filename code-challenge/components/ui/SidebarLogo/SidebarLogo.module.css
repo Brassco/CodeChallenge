@@ -1,0 +1,19 @@
+.logoContainer {
+  display: flex;
+  align-items: center;
+  color: #9b9b9b;
+  margin: 2rem;
+  height: 12rem;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.emptyLogo {
+  width: 100%;
+  height: 100%;
+  background-color: #cdcdcd;
+  border-radius: 1rem;
+}

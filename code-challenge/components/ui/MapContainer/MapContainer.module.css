@@ -1,0 +1,14 @@
+.container {
+  flex: 1;
+  border: solid 2px #fff;
+  border-radius: 0.5rem;
+  height: 15rem;
+  width: 100%;
+  margin: 1rem 0rem;
+  overflow: hidden;
+}
+
+.map {
+  height: auto;
+  width: 100%;
+}

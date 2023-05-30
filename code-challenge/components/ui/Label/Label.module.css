@@ -1,0 +1,16 @@
+.container {
+}
+
+.label {
+  color: #fff;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.labelSmall {
+  color: #fff;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 0.8rem;
+}
